@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test5Project
+  gitServerName: https://github.com/
+  gitUrl: https://github.com/y509522/Test5Project
+  gitUsername: y509522
+  gitBranch: main
