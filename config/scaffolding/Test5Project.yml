@@ -6,7 +6,7 @@ packages:
   gitServerName: https://github.com/
   gitUrl: https://github.com/y509522/Test5Project
   gitUsername: y509522
-  gitBranch: main
+  gitBranch: deploy-1
 services:
 - serviceName: project.test5.integrations:Test
   packages:
