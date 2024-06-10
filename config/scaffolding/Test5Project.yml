@@ -16,3 +16,11 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.903
+- serviceName: project.test5.integrations:addInt
+  packages:
+  - name: Test5Project
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.903
